@@ -1,0 +1,26 @@
+[
+    {
+        "cursoId": 101,
+        "titulo": "Curso Web Moderno Completo com JavaScript 2020 + Projetos",
+        "descricao":"Domine Web, 14 Cursos + Projetos, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL",
+        "categoria": "DESENVOLVIMENTO"
+    },
+    {
+        "cursoId": 102,
+        "titulo": "Gestão Financeira e Estratégia para Empresas de Serviços",
+        "descricao":"Aprenda como definir a estratégia e como fazer gestão financeira para melhorar os resultados de uma empresa de serviços.",
+        "categoria": "NEGOCIOS"
+    },
+    {
+        "cursoId": 103,
+        "titulo": "Curso Prático: Aprenda a Comprar e Vender Bitcoins",
+        "descricao":"Cadastro, Validação de Conta, Compra, Venda e Transferência de Bitcoins e Criptomoedas",
+        "categoria": "FINANCAS"
+    },
+    {
+        "cursoId": 104,
+        "titulo": "Curso Design para quem não é Designer",
+        "descricao":"Aprenda a criar artes gráficas para seu produto",
+        "categoria": "DESIGN"
+    }
+]

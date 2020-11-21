@@ -1,0 +1,92 @@
+[
+    {
+        "usuarioId": 1,
+        "usuario": "Dani Calabresa",
+        "cursosId": [101,102],
+        "nome": "Dani Calabresa",
+        "cpf": 12345678910,
+        "nascimento": "2020-01-01",
+        "tipo": "ALUNO"
+    },
+    {
+        "usuarioId": 2,
+        "usuario": "Amado Batista",
+        "cursosId": [102,103],
+        "nome": "Amado Batista",
+        "cpf": 1234567891,
+        "nascimento": "2020-02-02",
+        "tipo": "ALUNO"
+    },
+    {
+        "usuarioId": 3,
+        "usuario": "Beto Barbosa",
+        "cursosId": [103,104],
+        "nome": "Beto Barbosa",
+        "cpf": 2345678912,
+        "nascimento": "2020-03-03",
+        "tipo": "ALUNO"
+    },
+    {
+        "usuarioId": 4,
+        "usuario": "Sula Miranda",
+        "cursosId": [101,102],
+        "nome": "Sula Miranda",
+        "cpf": 34567890123,
+        "nascimento": "2020-04-04",
+        "tipo": "ALUNO"
+    },
+    {
+        "usuarioId": 5,
+        "usuario": "Roberta Miranda",
+        "cursosId": [102,103],
+        "nome": "Roberta Miranda",
+        "cpf": 45678901234,
+        "nascimento": "2020-05-05",
+        "tipo": "ALUNO"
+    },
+    {
+        "usuarioId": 6,
+        "usuario": "Léo Magalhães",
+        "cursosId": [103,104],
+        "nome": "Léo Magalhães",
+        "cpf": 56789012345,
+        "nascimento": "2020-06-06",
+        "tipo": "ALUNO"
+    },
+    {
+        "usuarioId": 7,
+        "usuario": "José Augusto",
+        "cursosId": [101,102],
+        "nome": "José Augusto",
+        "cpf": 67890123456,
+        "nascimento": "2020-07-07",
+        "tipo": "ALUNO"
+    },
+    {
+        "usuarioId": 8,
+        "usuario": "Eduardo Costa",
+        "cursosId": [102,103],
+        "nome": "Eduardo Costa",
+        "cpf": 78901234567,
+        "nascimento": "2020-08-08",
+        "tipo": "ALUNO"
+    },
+    {
+        "usuarioId": 9,
+        "usuario": "Raimundo Nonato",
+        "cursosId": [101,102],
+        "nome": "Raimundo Nonato",
+        "cpf": 89012345678,
+        "nascimento": "1931-04-12",
+        "tipo": "PROFESSOR"
+    },
+    {
+        "usuarioId": 10,
+        "usuario": "Girafales Aguirre",
+        "cursosId": [103,104],
+        "nome": "Girafales Aguirre",
+        "cpf": 90123456789,
+        "nascimento": "1934-06-10",
+        "tipo": "PROFESSOR"
+    }
+]
